@@ -18,7 +18,7 @@ module.exports = defineConfig({
 
    // specPattern : "cypress/e2e/**/*.dbsqa.{js,jsx,ts,tsx}",
 
-   specPattern: "**/*.feature",
+   //specPattern: "**/*.feature",
 
     //baseUrl: "https://www.saucedemo.com/v1",
     video: true,
