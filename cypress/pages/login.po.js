@@ -19,7 +19,7 @@ class loginPage{
 
       loginErrorMessage(){
 
-        return 'Invalid credentials'
+        return 'Invalid credentials '
       }
 
 
