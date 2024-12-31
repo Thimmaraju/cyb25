@@ -1,0 +1,6 @@
+{
+   
+    "getallemployees" : "/web/index.php/api/v2/pim/employees?limit=50&offset=0&model=detailed&includeEmployees=onlyCurrent&sortField=employee.firstName&sortOrder=ASC",
+    "addemployee" : "/web/index.php/api/v2/pim/employees"
+
+}
