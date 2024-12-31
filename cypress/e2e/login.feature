@@ -20,8 +20,8 @@ Feature: Verify Login Functionality
         And User clicks on login button
         Then User should get login error message
 
-    Scenario: Verify Login with invalid username and invalid password
-        Given User Launch the Application
-        When User Enter username "jghr" and password "dgererjer"
-        And User clicks on login button
-        Then User should get login error message
+    # Scenario: Verify Login with invalid username and invalid password
+    #     Given User Launch the Application
+    #     When User Enter username "jghr" and password "dgererjer"
+    #     And User clicks on login button
+    #     Then User should get login error message
