@@ -4,6 +4,17 @@ class dashBoardPage{
     return 'a[href="/web/index.php/pim/viewPimModule"]'
 
   }
+  adminMenu(){
+   
+    return 'a[href="/web/index.php/pim/viewAdminModule"]'
+
+  }
+  
+
+
+  
+  
+
 
 
 }
